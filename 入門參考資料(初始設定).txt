@@ -15,3 +15,8 @@ https://github.com/MediaTek-Labs
 MTK BlocklyDuino的Releases:
 
 https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt/releases
+
+==============================
+
+之後練習的東西所用到的參考資料
+會註解在程式碼裡，以便日後查詢
