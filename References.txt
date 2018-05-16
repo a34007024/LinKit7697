@@ -1,0 +1,17 @@
+一步步從Arduino IDE的設定開始教起:
+
+https://makerpro.cc/2017/06/introducing-linkit7697-development-environment/
+
+https://makerpro.cc/2017/06/activate-bluetooth-car-by-linkit-7697/
+
+利用拼圖語言BlocklyDuino入門:
+
+https://docs.labs.mediatek.com/linkit-7697-blocklyduino/%E5%AF%A6%E4%BD%9C%E7%AF%84%E4%BE%8B%E6%95%99%E5%AD%B8-12879630.html
+
+MTK聯發科的Github:
+
+https://github.com/MediaTek-Labs
+
+MTK BlocklyDuino的Releases:
+
+https://github.com/MediaTek-Labs/BlocklyDuino-for-LinkIt/releases
