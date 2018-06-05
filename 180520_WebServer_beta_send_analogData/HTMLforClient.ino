@@ -19,7 +19,7 @@ void sendHTML(){
     client.print(sensorReading);
     client.println("<br />");     
   }
-  client.println("<a href=\"/ledChange\"\"><input type=\"button\" value=\"我是按鈕\" style=\"width:120px;height:40px;font-size:20px;\">");
+  client.println("<a href=\"/ledChange\"\"><input type=\"button\" value=\"Button\" style=\"width:120px;height:40px;font-size:20px;\">");
   //send a button to Control LED
   client.println("</html>");//HTML結尾
 }

@@ -54,6 +54,7 @@ void loop() {
         if(request.indexOf("/ledChange") != -1){
           if(ledState == LOW) ledState = HIGH;
           else ledState = LOW;
+          digitalWrite(ledPin,ledState);
         }
         if (c == '\n') {
           // you're starting a new line
